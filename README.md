@@ -44,6 +44,7 @@ The Power BI dashboard includes:
 - A gender slicer to interactively filter the visuals
 
 **Dashboard screenshot:** Add your exported screenshot to this repository and update the filename below if needed.
+## Dashboard Preview
 
 ![Healthcare Data Analysis Dashboard](./dashboard_screenshot.png)
 
