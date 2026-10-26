@@ -45,7 +45,7 @@ The Power BI dashboard includes:
 
 **Dashboard screenshot:** Add your exported screenshot to this repository and update the filename below if needed.
 
-`![Healthcare Data Analysis Dashboard](dashboard_screenshot.png)`
+`![Healthcare Data Analysis Dashboard](./dashboard_screenshot.png)`
 
 **Power BI file:** `Healthcare_Data_Analysis.pbix`
 
